@@ -4,7 +4,10 @@ The project is implemented using Python and Tkinter for the GUI. The main script
 
 This project provides a practical application of Python programming and GUI development using Tkinter, while also promoting health awareness by helping users understand their BMI status.
 
+📏⚖️ ➕ 🧮 ➡️ 🧑‍⚕️🔢
 
-
-
-
+📏 - Measure Height: Get your height in meters or centimeters.
+⚖️ - Measure Weight: Get your weight in kilograms.
+➕ 🧮 - Calculate: Use the BMI formula (weight/height²) to compute your BMI.
+➡️ - Result: Obtain your BMI value.
+🧑‍⚕️🔢 - Interpretation: Compare your BMI to standard categories to understand your body weight status (underweight, normal weight, overweight, obese).
